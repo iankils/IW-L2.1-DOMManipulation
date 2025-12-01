@@ -1,4 +1,4 @@
-In this lesson, you will apply the JavaScript you have been reviewing and strengthening in the start of Unit 2 to the context of a webpage. 
+In this lesson, you will apply the JavaScript you have been reviewing and strengthening to the context of a webpage. 
 
 As written, this lesson occurs entirely in JavaScript - the starting and ending HTML and CSS files are identical. This is intentional, to both focus on one single file, and illustrate the potential JavaScript has to make a webpage come to life. However, if you need support reviewing any of the earlier content, feel free to modify the starter code.
 
