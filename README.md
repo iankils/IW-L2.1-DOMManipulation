@@ -5,17 +5,17 @@ As written, this lesson occurs entirely in JavaScript - the starting and ending 
 ## Objectives
 ### Students will be able to:
 
-- Add 'click' event listeners to elements. Use control flow / conditionals to respond to specific user inputs.
+- Add `'click'` event listeners to elements. Use control flow / conditionals to respond to specific user inputs.
 
-- Use string interpolation and the .innerHTML property to dynamically append elements to the DOM.
+- Use string interpolation and the `.innerHTML` property to dynamically append elements to the DOM.
 
-- Explain why DOM Manipulation script tags must be included below the elements they will be manipulating, or include the defer attribute.
+- Explain why DOM Manipulation script tags must be included below the elements they will be manipulating, or include the `defer` attribute.
 
-- Store HTML elements in JS variables using document.querySelector().
+- Store HTML elements in JS variables using `document.querySelector()`.
 
 - Use named ES6 (arrow) functions as callback functions for event listeners.
 
-- Use console.log() and the developer console to debug code.
+- Use `console.log()` and the developer console to debug code.
 
 ### Do Now
 What should happen when you press any of the three buttons currently shown on screen. Additionally, study the source code and identify each of the following:
