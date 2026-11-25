@@ -17,6 +17,21 @@ As written, this lesson occurs entirely in JavaScript - the starting and ending 
 
 - Use `console.log()` and the developer console to debug code.
 
+### Vocabulary
+- **DOM:** The Document Object Model is a codified way of thinking about (more technically an interface for) web documents. It considers each web page to be a document, and each element on that page to be an object.
+
+- **Object:** In JavaScript, an object is a collection of properties and methods.
+
+- **Property:** A property in JavaScript associates a key with a value. If you were to create a student profile as a JavaScript object, it might include the property `age: 18` in which `age` is the key, and `18` is the value.
+
+- **Method:** A method in JavaScript is an action associated to a specific object. The `.toUpperCase()` method can be used on any String to create an uppercase version of that string.
+
+### Resources
+- [**W3 Schools: What is the DOM**](https://www.w3schools.com/js/js_htmldom.asp) - explains in brief what the Document Object Model is.
+
+- [**MDN: Document.querySelector()**](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) - Explains how the `.querySelector()` method works, including how it can replicate any CSS selector.
+
+
 ### Do Now
 What should happen when you press any of the three buttons currently shown on screen. Additionally, study the source code and identify each of the following:
 
